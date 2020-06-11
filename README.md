@@ -10,3 +10,8 @@ https://nobelprize.readme.io/docs/getting-started
 
 
 
+### Web service query
+This project is about query from web services. For this project we used the data set of:
+https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
+
+
