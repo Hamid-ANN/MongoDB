@@ -20,3 +20,9 @@ This project is about query from web services. For this project we used the data
 https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
 Process of this project is learned from the udacity.
 
+
+
+### XML data Parsing
+This project start with the introduction of XML data and continiues with different projects such as Open Street map. This part is a summery of information by the course of 'Data Wrangling with MongoDB' in UDACITY.
+
+https://classroom.udacity.com/courses/ud032
